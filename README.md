@@ -47,5 +47,4 @@ Ouvrez le fichier Jupyter Notebook et exécutez les cellules séquentiellement. 
 - Appliquer les patchs de correction.
 - Lancer l'inférence sur votre vidéo.
 
----
-*Réalisé dans le cadre d'un projet de détection d'objets avancée.*
+
